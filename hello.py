@@ -24,7 +24,7 @@ def main():
     print repeat('Woo Hoo', True)  ## Woo HooWoo HooWoo Hoo!!!
     print "done"
 
-    #added a change ###try  toupload to git
+    #added a change ###try  toupload to git #no good try again
 
     f = open("testio.txt",'r')
     for line in f:
