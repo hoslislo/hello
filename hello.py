@@ -24,7 +24,7 @@ def main():
     print repeat('Woo Hoo', True)  ## Woo HooWoo HooWoo Hoo!!!
     print "done"
 
-    #added a change
+    #added a change ###try  toupload to git
 
     f = open("testio.txt",'r')
     for line in f:
@@ -33,7 +33,7 @@ def main():
     print "path   ", os.path.abspath(__file__)
 
 
-
+'''
     try:
         f = open("C:Users\harry\PycharmProjects\testpath.txt",  'w')
         # perform file operations
@@ -43,7 +43,7 @@ def main():
     finally:
         f.close()
 
-
+'''
 
 if __name__ == "__main__":
     main()
