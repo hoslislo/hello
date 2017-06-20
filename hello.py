@@ -25,6 +25,8 @@ def main():
     print "done"
 
     #added a change ###try  toupload to git #no good try again  ## agin agin
+    #sdded 6/20 1st try
+
 
     f = open("testio.txt",'r')
     for line in f:
