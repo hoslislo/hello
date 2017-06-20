@@ -4,6 +4,7 @@
 import sys
 import os
 
+
 # Defines a "repeat" function that takes 2 arguments.
 def repeat(s, exclaim):
     """
@@ -24,11 +25,12 @@ def main():
     print repeat('Woo Hoo', True)  ## Woo HooWoo HooWoo Hoo!!!
     print "done"
 
-    #added a change ###try  toupload to git #no good try again  ## agin agin
-    #sdded 6/20 1st try
+    # added a change ###try  toupload to git #no good try again  ## agin agin
+    # sdded 6/20 1st try
+    # that worked this is secodn version
 
 
-    f = open("testio.txt",'r')
+    f = open("testio.txt", 'r')
     for line in f:
         print(line)
 
