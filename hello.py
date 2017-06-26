@@ -28,6 +28,7 @@ def main():
     # added a change ###try  toupload to git #no good try again  ## agin agin
     # sdded 6/20 1st try
     # that worked this is secodn version
+    # push this 6/26
 
 
     f = open("testio.txt", 'r')
