@@ -29,7 +29,7 @@ def main():
     # sdded 6/20 1st try
     # that worked this is secodn version
     # push this 6/26
-
+    # this is 7/11
 
     f = open("testio.txt", 'r')
     for line in f:
